@@ -25,7 +25,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This was extremely difficult because my first idea was too ambitious.
+At first, I wanted the rows of teeth to slide in as you increased the tip and for them to fall out as you decreased it. Turns out that would have been kind of difficult, so then I tried to make a swipe gesture and horizontal scroll view that you could interact with to change the tip amount. Turns out that was too hard for me too. Everything looks a bit smushed together because I had to keep the segmented controller after all. Still cracks me up looking at 100% tip though. Enjoy!
 
 ## License
 
