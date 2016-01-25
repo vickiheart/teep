@@ -1,7 +1,5 @@
 # teep
 
-# Pre-work for CodePath at Lyft
-
 teep is a tip calculator application for iOS.
 Submitted by: Vicki Tan
 Time spent: 20 hours in total
