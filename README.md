@@ -1,8 +1,8 @@
 # teep
 
-# Pre-work -  Teep
+# Pre-work -  teep
 
-Teep is a tip calculator application for iOS.
+teep is a tip calculator application for iOS.
 
 Submitted by: Vicki Tan
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/vickiheart/teep/blob/master/teep.gif' title='teep video walkthrough' width='' alt='video moonwalk' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
